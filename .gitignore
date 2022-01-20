@@ -1,0 +1,44 @@
+*.d81
+*.prg
+*.lst
+*.sym
+xemu.cfg
+
+# Emacs
+*~
+\#*\#
+.\#*
+
+# JetBrains
+/.idea/
+*.iml
+*.ipr
+*.iws
+
+# Sublime Text
+*.sublime-workspace
+
+# VIM
+*~
+[._]*.s[a-v][a-z]
+!*.svg
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
+
+# Visual Studio Code
+/.history/
+/.vscode/
+*.code-workspace
+
+#Linux
+*~
+
+# macOS
+.DS_Store
+._*
+
+# Windows
+Thumbs.db
+*.lnk
